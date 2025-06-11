@@ -26,9 +26,10 @@ mock-ssh-server==0.8.2
 connexion[swagger-ui]==2.5.0
 flask==1.1.2
 flask-cors==4.0.1
-requests==2.23.0
+requests==2.32.4
 prettytable
 psutil
 scikit-learn
 thop
 psutil
+torch>=2.7.1 # not directly required, pinned by Snyk to avoid a vulnerability
