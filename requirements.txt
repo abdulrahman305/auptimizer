@@ -25,8 +25,8 @@ hpbandster; python_version >= '3'
 mock-ssh-server==0.8.2
 connexion[swagger-ui]==2.5.0
 flask==1.1.2
-flask-cors==4.0.1
-requests==2.23.0
+flask-cors==6.0.0
+requests==2.32.4
 prettytable
 psutil
 scikit-learn
